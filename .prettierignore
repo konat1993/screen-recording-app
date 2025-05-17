@@ -1,0 +1,14 @@
+# Dozwolone pliki
+!**/*.ts
+!**/*.tsx
+!**/*.js
+!**/*.jsx
+!**/*.json
+!**/*.mjs
+
+# Ignoruj foldery
+node_modules/
+dist/
+build/
+.next/
+.next
