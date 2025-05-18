@@ -4,6 +4,7 @@
     "source.fixAll.eslint": "always"
   },
   "editor.trimAutoWhitespace": true,
-  "cSpell.words": ["turbopack"],
-  "css.lint.unknownAtRules": "ignore"
+  "cSpell.words": ["satoshi", "Streami", "turbopack"],
+  "css.lint.unknownAtRules": "ignore",
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
